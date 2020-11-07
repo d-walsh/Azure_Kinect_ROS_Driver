@@ -16,11 +16,11 @@
 #include <k4a/k4a.h>
 #include "rclcpp/rclcpp.hpp"
 #include <sensor_msgs/msg/camera_info.hpp>
-#include <sensor_msgs/msg/Compressed_Image.hpp>
-#include <sensor_msgs/msg/Image.hpp>
-#include <sensor_msgs/msg/Imu.hpp>
-#include <sensor_msgs/msg/Point_Cloud2.hpp>
-#include <sensor_msgs/msg/Temperature.hpp>
+#include <sensor_msgs/msg/compressed_image.hpp>
+#include <sensor_msgs/msg/image.hpp>
+#include <sensor_msgs/msg/imu.hpp>
+#include <sensor_msgs/msg/point_cloud2.hpp>
+#include <sensor_msgs/msg/temperature.hpp>
 #include <k4a/k4a.hpp>
 #include <k4arecord/playback.hpp>
 
